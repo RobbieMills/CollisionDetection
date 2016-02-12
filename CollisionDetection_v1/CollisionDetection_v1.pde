@@ -18,11 +18,11 @@ void setup() {
     
     for(int checkCollisions = 0; checkCollisions < zombieCount; checkCollisions++){
       
-      while(/* there is a collision */){
+   //   while(/* there is a collision */){
         
-        tempZombieObject.alterPosition(int(random(width - 50)), int(random(height - 50)));
+    //    tempZombieObject.alterPosition(int(random(width - 50)), int(random(height - 50)));
         
-      }
+    //  }
        
     }
     
